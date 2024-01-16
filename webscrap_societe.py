@@ -14,28 +14,37 @@ if response.status_code == 200:
   
     # Analyser le HTML avec BeautifulSoup
     soup = BeautifulSoup(response.text, 'html.parser')
-    # Supposons que le montant est dans des balises <div> avec la classe 'page-member__resume__number'
-    company_paragraphs = soup.find_all('div', class_='page-member__resume__number')
-    
     #On créé un fichier avec le code html de l'url pour pouvoir faire des verifications
     with open("societe.html", "w", encoding="utf-8") as html_file:
         page_html_text = soup.prettify()
         html_file.write(page_html_text)
+    # Supposons que le montant est dans des balises <div> avec la classe 'page-member__resume__number'
+    company_capital = soup.find_all('div', class_='page-member__resume__number')
+       
+    company_activity = soup.find_all('div', class_='wysiwyg mt-16')
+
+
 
     #Si on trouve quelque chose:
-    if len(company_paragraphs) > 0:
-        # Écrire les liens dans le fichier texte
-        with open(fichier_texte, 'w') as fichier:#On écrit les trouvailles dans le fichier choisi
-            for paragraph in company_paragraphs:
+    with open(fichier_texte, 'w') as fichier:
+        if len(company_capital) > 0:
+            # Écrire les liens dans le fichier texte
+            #On écrit les trouvailles dans le fichier choisi
+            for paragraph in company_capital:
                 montant_capital = paragraph.text.strip()  # Supprimer les espaces blancs
                 if montant_capital:  # Vérifier si le texte existe
                     fichier.write(montant_capital + '\n')
                     print(f"Écrit dans le fichier : {montant_capital}")
                     break
-        print("Opération terminée. Les liens ont été enregistrés dans le fichier texte.")
-    else:
-        print("Aucun lien trouvé sur la page.")
-
+        if len(company_activity) > 0:
+            # Écrire les liens dans le fichier texte
+            #On écrit les trouvailles dans le fichier choisi
+            for paragraph in company_activity:
+                activity = paragraph.text.strip()  # Supprimer les espaces blancs
+                if activity:  # Vérifier si le texte existe
+                    fichier.write(activity + '\n')
+                    print(f"Écrit dans le fichier : {activity}")
+                    break
 else:
     print(f"Échec de la requête avec le code d'état {response.status_code}")
 
