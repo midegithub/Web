@@ -1,22 +1,26 @@
+
+___________________________________________________________________________
+
 Entreprise numéro 1 : 4CAD GROUP
 Capital : 10 000 €
 Activité : Intégration et distribution de solutions informatiques.
+
+Emailto:contact@cad.fr
 Tel : +33 (0)2 51 70 28 82
-/
-/
-/
-/
-/
+
+___________________________________________________________________________
+
 Entreprise numéro 2 : A-NSE
 Capital : 125 150 €
 Activité : Conception et fabrication d'aérostats (ballons captifs et ballons dirigeables) : Mise à disposition de l'aérostat.Installation du matériel embarqué (radars, AIS, caméras, système de retransmission de données, etc...).Maintien en conditions opérationnelles (MCO) de l'aérostat et du matériel embarqué.Ingénierie : Technologies permettant d’améliorer les performances et d’optimiser l’utilisation des aérostats actuels.Architecture et intégration des systèmes de surveillance à embarquer. Techniques de production tels la découpe et la soudure de produits laminés, ainsi que la mise en œuvre de composite carbone kevlar.Certification : ISO 9001
+
+Emailto:contact@a-nse.com
 Tel : Tel. :+33 (0)4 94 98 39 70
-/
-/
-/
-/
-/
+
+___________________________________________________________________________
+
 Entreprise numéro 3 : AALBERTS SURFACE TECHNOLOGIES
+Présentation : Aalberts surface technologies - site de Villers cotterets
 Capital : 3 651 000 €
 Activité : Anodisation de l’aluminium et de ses alliages
 Anodisation chromique procédé BF5 (Brevet SGI); Anodisation sulfo-tartrique TSA; Anodisation sulfurique OAS; Anodisation dure OAD et procédé NITUFF sur tous les alliages, OAS fine.
@@ -48,29 +52,825 @@ Rivetage
 
 Etudes et recherches 
 Mise au point de procédés nouveaux dans un laboratoire usine pilote. Contrôles analyses et expertises.
+
+Emailto:info.villers@aalberts-st.com
 Tel : 03 23 96 01 01
-/
-/
-/
-/
-/
+
+___________________________________________________________________________
+
 Entreprise numéro 4 : AAS INDUSTRIES
 Capital : 400 000 €
 Activité : Fabrication de pièces mécaniques et de sous-ensembles de haute précision.
 
 Tournage, fraisage, rectification et ajustage de pièces mécaniques, principalement de petite dimension et fabriquées en petite ou moyenne série.
+
+Emailto:contact@aas-industries.fr
 Tel : +33 (0)2 41 53 04 30
-/
-/
-/
-/
-/
+
+___________________________________________________________________________
+
 Entreprise numéro 5 : ABC
+Présentation : APPAREILLAGES ET BANCS HYDRAULIQUES CHÂTELLERAUDAIS
 Capital : 362 550 €
 Activité : Prestation globale dans le domaine des bancs d’essais destinés à l’industrie et principalement au domaine aéronautique, avec une forte spécialisation dans les systèmes hydrauliques, pneumatiques, mécaniques, électriques, automatisation et mesures.Produits : - Installation et bancs d'essais sur-mesure :Banc d’essais : hydraulique, carburant, pneumatique, électrique, mécanique.Banc d’essais universels et polyvalents.Banc d’essais de qualification, de production, de performance et d’endurance.Banc d’essais manuels ou informatisés, acquisitions de données et temps réel.- Génération hydraulique centralisée et mobile : maintenance ATA-29 des aéronefs.- Système d’analyse de fluides en ligne : vérification de la pollution physico-chimique. - Outillages de maintenance et équipements de servitude.Services : Expertise technique, Conseils, Recherche & Développement, Support, Assistance technique & Dépannage. Centre de Formation, Pièces détachées & Rechanges, Contrats de maintenance préventive/systématique, Location de matériels de maintenance.Rénovation et Rétrofit de Bancs d’essais ancienne génération.  Agréments : Crédit Impôt Recherche (CIR) - OTAN/NATO Code : FAL07
+
+Emailto:contact@abc-essais.com
 Tel : Tel. :+33 (0)5 49 20 03 69
-/
-/
-/
-/
-/
+
+___________________________________________________________________________
+
+Entreprise numéro 6 : ABIPA INTERNATIONAL
+Capital : 300 327 €
+Activité : Industrialisation, production et assemblage de sous-ensembles mécaniques pour des applications à fortes contraintes techniques, qualité et normatives (Aéronautique, Médical, Ferroviaire ...). 
+Usinages de précision (Aciers, Inox, Aluminium, Titane et Inconel)  par fraisage, tournage, décolletage, électroérosion … 
+Assemblage de sous-ensembles complexes. 
+Parachèvement (rodage, rectification, polissage, peinture, détourage des composites …).
+
+ 
+Certifications :  NF EN ISO 9001, AS 9100, JIS Q 9100, EN 9100
+
+Emailto:mail@abipa-intl.com
+Tel : Tel. :+ 33 (0)2 37 64 52 42
+
+___________________________________________________________________________
+
+Entreprise numéro 7 : AC DISMANTLING
+Présentation : Membre du club StartAir.
+                                                                                            
+Entreprise créée en 2022
+Capital : 4000 €
+Activité : Enlèvement, démantèlement et revalorisation des aéronefs de l'aviation privée et d'affaire dans le but de récupérer des aéronefs volants ou non-volants et des stocks de sous-ensembles dans un but de recyclage.Après enlèvement ou démantèlement In Situ, nous procédons au tri des composants avec l'objectifs de les répartir dans 4 filières d'écoulement : PIEC2 AéronautiquePIEC2 PrototypageConservation du patrimoine aéronautiqueRAW Materials.
+
+Emailto:a.charmarty@ac-dismantling.com
+Tel : +33 (0)6 99 15 35 54
+
+___________________________________________________________________________
+
+Entreprise numéro 8 : ACB
+Présentation : Spécialisé dans les technologies de formage et de soudage des matériaux métalliques aéronautiques (Titane, Aluminium, Inconel, ...), ACB est à la fois concepteur et fabricant des machines de production, mais également producteur des pièces élémentaires à destination des applications avions, hélicoptères et moteurs, civils et militaires.
+Capital : 5 040 000 €
+Activité : Presses Hydrauliques de Formage :
+- Presses d’étirage
+- Presses d’élastoformage
+- Presses de formage à chaud
+- Presses de formage SPF et SPF/DB.
+ Machines de Soudage :
+- Par friction linéaire (LFW)
+
+Atelier de formage clé en main. 
+Services et SAV : Maintenance, modernisation ou transfert de tous types de presses. Manufacturing Engineering
+ Atelier de Production de pièces (Aries Manufacturing)
+- Fabrication et assemblage de pièces élémentaires de fuselage, nacelle, mât, moteur…
+
+En titane et en aluminium
+Par étirage de profilés
+Par étirage à chaud (HSF)
+Par formage à chaud (HF)
+Par formage SPF et SPF/DB
+Par soudage par friction linéaire (LFW)
+Usinage
+
+- Fabrication d’outillages de formage
+- Développement de procédés de formage de métaux
+- Développement d'outil de simulation des procédés
+
+Emailto:info@acb-ps.com
+Tel : Tel. :+33 (0)2 51 13 84 00
+
+___________________________________________________________________________
+
+Entreprise numéro 9 : AD INDUSTRIES
+Capital : 260 05 062 €
+Activité : 1 - Ingénierie mécanique & hydraulique.
+2 - Pièces techniques et ensembles complexes, sur définitions clients, pour les secteurs sensibles et de haute technologie (Aéronautique - Défense - Energie).
+
+    Equipements mécaniques et hydrauliques (Kérosène - Skydroll).
+    Systèmes d'injection de carburant.
+    Engrenages et transmissions.
+    Ensembles mécano-soudés/chaudronnés.
+    Pièces moteur et structure.
+    Matériaux métalliques et composites hautes performances.
+
+3 -  Etude et réalisation de moules complexes pour composites.
+4 - Savoir-faire
+
+    Maîtrise d'oeuvre.
+    Co-ingénierie et industrialisation.
+    Gestion des approvisionnements matières et composants.
+    Montage et test d'ensembles et sous-ensembles.
+    Usinage métaux durs (Inconel, Titane, Invar) et alliages légers.
+    Brochage.
+    Taillage et rectification d'engrenages (droit, conique, spiro conique, curvic coupling).
+    Mécano soudure (TIG - MIG - Plasma) sous qualification.
+    Traitements thermiques - Projection plasma - Shot peening.
+    Mise en oeuvre de matériaux composites.
+    Peinture.
+    Contrôles dimensionnels et CND (Ressuage - Radiographie - Magnétoscopie).
+    Organisation des sites par spécialité, de la micromécanique à la très grande dimension (> 3000mm).
+
+Assurance qualité : ISO 9001 version 2000 - EN 9100 - PRI NADCAP - PART 21G /145 - ISO 140011.
+
+Emailto:contact@ad-industries.fr
+Tel : Tel. :+33 (0)9 71 00 73 20
+
+___________________________________________________________________________
+
+Entreprise numéro 10 : ADB
+Présentation : ADB (Atelier de Décolletage de Bigorre) est spécialisée en tournage et décolletage pour la petite et moyenne série. ADB est une filiale d'Agiliteam, groupe francais specialisé dans la mécanique de précision incluant le fraisage, le tournage et les traitements de surface et peinture.
+Capital : 103 968 €
+Activité : Structure
+Fait partie du groupe AGILITEAM qui propose aussi du Fraisage, Tôlerie fine et Traitement de Surface en Europe et Asie.
+Sous-traitance mécanique de précision
+Usinage de pièces très précises et réalisation de sous-ensembles mécaniques, de petites dimensions, en petites et moyennes séries).
+
+Industrialisation des produits en fabrication complète (approvisionnement, usinage, protection, montage).
+
+Usinage tous types de matériaux (Alloys, Inconel, Inox, Aciers, Titanes, Aluminium, Plastiques…).
+
+Moyens de production :
+- 12 tours numériques 3 à 7 axes  (< Ø 100 mm).
+- 6 tours à décolleter poupée mobile 12 axes (< Ø 32mm).
+- 8 centres d’usinage 4 axes (500*300*250mm).
+- 2 centres 5 axes (500*300*250mm).
+- Machine à rouler les filets.
+- 2 rectifieuses centerless.
+- Electro-érosion + Enfonçage.
+- Presse électrique CN12T JANOME.
+- Robot IRB 4600.
+
+Laboratoire de contrôle équipé de contrôle tridimensionnel, optique, scanning…
+
+Logiciels : GPAO : HÉLIOSIII - CFAO : TOP SOLID
+Portail Web EDI : AIR SUPPLY.
+Agréments : EN9100 version 2016 – ISO 9001 version 2015.
+
+Emailto:commercial@agiliteam.fr
+Tel : Tel. :+33 (0)5 62 45 63 80
+
+___________________________________________________________________________
+
+Entreprise numéro 11 : ADDEV MATERIALS AEROSPACE SAS
+Capital : SAS
+Activité : Dosage et reconditionnement sur mesure d’ingrédients chimiques (colles, huiles, peintures, graisses, produits de traitement de surface...).
+Découpe et distribution d’adhésifs et de films techniques (Tedlar®, Kapton®, ...).
+Certifications : NF EN ISO 9001 / 2008 - AS/JISQ/EN 9100 : 2010.
+
+Emailto:aerospace.fr@addevmaterials.com
+Tel : Tel. :+33 (0)5 34 66 71 01
+
+___________________________________________________________________________
+
+Entreprise numéro 12 : AddUp
+Présentation : AddUp est un fabricant français de Machines et de Pièces dans le domaine de la Fabrication Additive Métallique.
+                                                                                            
+Entreprise créée en 2016
+Capital : SA
+Activité : AddUp est une joint-venture créée en 2016 par Fives et Michelin.
+Cette entreprise française est spécialisée dans la Fabrication Additive Métallique pour proposer des solutions aux industriels grâce à :
+
+Fabrication de machines
+
+FormUp® 350 pour la technologie PBF (Powder Bed Fusion)  
+BeAM pour la technologie DED (Directed Energy Deposition)
+
+
+Production de pièces
+
+en différents matériaux : Titane, Aluminium, Maraging, Inox and Inconel
+
+
+
+Les sites français du groupe sont situés : à Clermont-Ferrand (63), Salon de Provence (13), Strasbourg (67), Coudray Montceau (91), et St Céré (46).
+Une filiale américaine, AddUp Inc., a été créée en 2017 et est actuellement située à Cincinnati (Ohio).
+AddUp développe en plus de ces activités, l'ensemble des services depuis la conception des pièces jusqu'au post-traitement et livraison, permettant de développer la Fabrication Additive Métallique industrielle.
+
+Tel : Tel. :+33 (0)4 73 25 25 00
+
+___________________________________________________________________________
+
+Entreprise numéro 13 : ADF
+Capital : 4 040 000 €
+Activité : Groupe ADF propose des services d'ingénierie, d'expertise et de conseil à forte valeur ajoutée répondant aux problématiques de conception, de fabrication ou de performance des produits industriels. De l'équipement industriel à l'usine complexe, Groupe ADF fournit des services à la production et à la maintenance permettant d'améliorer la performance de ses clients.Groupe ADF est présent sur les principaux bassins de l'industrie de l'aéronautique et y valorise son expérience dans l'intégration de systèmes complexes à forte valeur ajoutée : conception et intégration de lignes finales d'assemblage (FAL), conception de systèmes de soutien et d'essai au sol (GSE et GTE), assemblage de structures complexes en salles blanches ou grises, fourniture de moyens de production et de logistique.Certifications : ISO 9001:2015 - EN 9100:2018 - AS 9100:C - JISQ 9100:2016.
+
+Tel : Tel. :+33 (0)4 42 77 48 50
+
+___________________________________________________________________________
+
+Entreprise numéro 14 : ADHETEC
+Capital : 1 258 112 €
+Activité : Conception et fabrication de produits et solutions adhésives.Apparence externe des aéronefs: films adhésifs ADHECAL 13880, marquages techniques ADHEMARK 13880, pochoirs, mylars et produits de masquages, rubans et films adhésifs.Cabine des aéronefs: personnalisation, film adhésifs décoratifs ADHESKIN 13915 et 13930, marquages techniques, mousses et films de protection.Support aux opérations industrielles: produits de masquages, films et mousses de protection, rubans adhésifs, découpes et réalisations à façon.
+
+Emailto:commercial@adhetec.com
+Tel : Tel. :+33 (0)5 62 51 78 80
+
+___________________________________________________________________________
+
+Entreprise numéro 15 : AECE GROUP
+Présentation : Depuis plus de 30, AECE Group concoit et produit les système d'allumage et les capteurs des turbines d'hélicoptères et d'avions.
+Capital : 140 000 €
+Activité : Concepteur, fabricant et réparateur majeur de :
+ 
+
+Systèmes d'allumage de turbines.
+Calculateurs de freinage d'urgence.
+Indicateurs de cockpit.
+Capteurs de vitesse, de température et de pression.
+
+Emailto:t.letang@aece-group.com
+Tel : Tel. :+33 (0)5 45 24 04 04
+
+___________________________________________________________________________
+
+Entreprise numéro 16 : AEQUS AEROSPACE FRANCE
+Capital : SAS
+Activité : Etudes, industrialisation, usinage et montage de pièces complexes jusqu’à 2000 x 1650 x 1650 mm : 90 centres d’usinage CN 3, 4 & 5 axes, UGV, tournage et rectification CN (métaux durs et composites). Usinage micro-mécanique.Bancs d'essais kérozène, Skydroll.  Intégration de kits, boîtiers et ensembles, pièces primaires (prototypes et moyennes séries).  Applications : cellule, hydraulique et commandes de vol, réacteurs et turbines, trains d’atterrissage …  Programmes : pour Aéronefs Airbus, Dassault, Embraer, Airbus Helicopters, Boeing, ATR (hydraulique, trains, cellule) ; pour moteurs LEAP, CFM56, M88, M53, GE90.Qualifications : ISO 9001 - EN 9100 - Qualifas A.
+
+Emailto:emmanuel.usureau@aequs.com
+Tel : Tel. :+33 (0)2.41.71.23.23
+
+___________________________________________________________________________
+
+Entreprise numéro 17 : AERIADES
+Présentation : CLUSTER AÉRONAUTIQUE DÉFENSE GRAND EST
+
+Entreprise créée en 2003
+Capital : SAS A CAPITAL VARIABLE €
+Activité : AERIADES a pour objectif d'animer et d'aider au développement de la filière aéronautique - spatial - défense sur le territoire de la Région GRAND EST (Champagne Ardennes - Lorraine - Alsace).
+Fin 2020, AERIADES regroupe 70 membres, industriels, centres techniques, établissements d'enseignement et de recherche, agissant tout au long de la chaîne de valeur aéronautique.
+
+Emailto:jl.reis@aeriades.org
+Tel : Tel. :+33 (0)637484360
+
+___________________________________________________________________________
+
+Entreprise numéro 18 : AERIX SYSTEMS
+Présentation : Adhérent au club StartAir du GIFAS
+Capital : 10000 €
+Activité : Conception, fabrication, montage, automaticien, essais pour la réalisation de drones/plateformes et moyens de propulsion omnidirectionnels.
+
+Emailto:contact@aerix-systems.com
+Tel : +33 (0)6 78 55 63 57
+
+___________________________________________________________________________
+
+Entreprise numéro 19 : AERO EQUIPEMENT
+Capital : 375 000 €
+Activité : Distribution de consommables, fixations, composants éléctriques et mécaniques, produits chimiques, matières composites et métallurgiques dédiés à l'industrie aéronautique.
+
+Gestion de stock.
+
+Kittings.
+
+Certifications : ISO9001-2015, EN9120-2018
+
+Emailto:sales@aeroequipement.com
+Tel : Tel. :+33 (0)1 46 21 89 80
+
+___________________________________________________________________________
+
+Entreprise numéro 20 : AEROCAMPUS AQUITAINE
+Capital : Association Loi de 1901
+Activité : Campus aéronautique et spatial, agréé Part 147, dédié à la formation aux métiers de l'aéronautique regroupant au sein de son association l'ensemble des acteurs de la filière.
+
+Emailto:contact@aerocampus-aquitaine.com
+Tel : Tel. :+33 (0)5 56 21 01 01
+
+___________________________________________________________________________
+
+Entreprise numéro 21 : AEROCENTRE
+Présentation : Pôle d’Excellence Régional (association Loi 1901), est missionné pour développer et pérenniser les filières aéronautique, spatiale et défense en région Centre-Val de Loire.
+                                                                                            
+Entreprise créée en 2009
+Capital : Association Loi de 1901
+Activité : Aérocentre regroupe plus de 130 entreprises des filières aéronautique, spatiale et défense en région Centre-Val de Loire :• Donneurs d’Ordre pilotes des grappes de performance : MBDA, MECACHROME, MICHELIN AIR CRAFTS, SAFRAN GROUP, THALES.• Sous-traitants à compétences multiples et complémentaires : mécanique de précision, chaudronnerie, électronique & électrique, bureaux d'études, maintenance, démantèlement...• Et des membres consultatifs : établissements d’enseignement supérieur, laboratoires et Centres de Ressources Technologiques.
+Aérocentre, au service de ses membres, développe des actions en s’appuyant sur 4 piliers stratégiques :
+Développement économique et businessRecherche et innovation et technologie.Excellence industrielle.Implication humaine.
+Domaines de compétences :
+Systèmes et équipements aéroportés.
+Aménagement de la cabine.
+Matériaux composites - Élastomères et plastiques.
+Démantèlement/recyclage aéronefs.
+Sous-traitance mécanique, métallurgie, traitement de surface et procédés spéciaux.
+Electronique et automatisme.
+Offre sous-traitance globale.
+Assemblage- Intégration- Machines spéciales.
+Usinage : pièces mécaniques.
+Fabrication additive.
+Peinture aéronautique.
+
+Emailto:c.denis@aero-centre.fr
+Tel : Tel. :+33 (0)2 54 22 55 93
+
+___________________________________________________________________________
+
+Entreprise numéro 22 : AEROMETALS & ALLOYS
+Capital : 2 500 000 €
+Activité : ACNIS GROUP distribue depuis plus de 25 ans, une gamme très large de Titane, inox spéciaux, et de produits techniques en tôles, plaques, barres, billets, tubes, produits forgés et extrudés, produits de soudage, visserie. Grâce à nos 10 machines de découpe et notre technicité nous livrons des pièces en découpe jet d’eau, laser, sciage, cisaillage…
+Nous réduisons vos coûts en vous livrant des pièces « NEAR NET SHAPE ».
+Nous avons 4 centres de service : 2 en France, 1 au Brésil, et 1 en Chine.
+Nous sommes certifiés ISO9001, ISO 13485 et EN9120 .
+
+Emailto:fpicard@acnis-titanium.com
+Tel : Tel. :+33 (0)4 26 49 63 63
+
+___________________________________________________________________________
+
+Entreprise numéro 23 : AEROPROTEC
+Présentation : GROUPE HAURE-MIRANDE
+Capital : 159 740 €
+Activité : AEROPROTEC Procédés spéciaux Aéronautique à Pau (64).Contrôle non destructif : Magnétoscopie, Ressuage, Dureté brinnel, rockwell, microdureté Conductivité, expertise radiographique, niveau III PT,RT, MT en interne.Traitement par conversion électrolytique : OAC, OAS, OAT.Traitement par conversion chimique : Conversion chimique de l'aluminium (Alodine 1200).Autres traitements : Passivation des inox, Polissage électrolytique.Dépôt par voie électrolytique : Argentage, Cadmiage.Prestations complémentaires : sablage et microbillage, décapage, épargne, marquage.Peinture aéronautique.Qualifications : EN 9100, ISO 9001, PRI NADCAP  (CND, OAC, OAS, conversion chimique de l'aluminium).AEROPROTEC GDIM Procédés spéciaux Aéronautique à UZEIN (64).Procédés REACH compatibles pour pièces de grande dimensions. Contrôle non destructif : ressuage. Traitement par conversion électrolytique : OAS (fine, NG, long cycle), TSA. Traitement par conversion chimique : SURTEC. Peinture aéronautique. Qualifications : EN 9100, ISO 9001, PRI NADCAP.AEROPROTEC services à Assat (64)R&D : Recherche procédés REACH compatibles, prestations et conseils.Etude et réalisation. Prestations sur site. Formations.AEROTECH à TunisTraitement par conversion chimique : surtec 650, alodine 1200.Dépôt par voie électrolytique  argentage, cadmiage, nickelage, étamage.Autres traitements : Passivation des inox. Peinture aéronautique.Qualifications : EN 9100, ISO 9001.HERA AERO à PAU (64) Vente de produits dans le domaine de l'industrie en général et de l'aéronautique en particulier. Toutes prestations industrielles pour campagnes d'essai, réalisation de prototypes, analyse de nouveaux besoins, consulting, réseau de distribution spécialisé et support à la vente et réparation, dans le domaine de l'industrie en général et de l'aéronautique en particulier.
+
+Emailto:contact@aeroprotec.com
+Tel : Tel. :+33 (0)5 59 84 95 20
+
+___________________________________________________________________________
+
+Entreprise numéro 24 : AEROSPACE CLUSTER AUVERGNE RHONE-ALPES
+Capital : Association Loi de 1901
+Activité : Aerospace Cluster Auvergne-Rhône-Alpes (Association loi 1901) est le réseau des acteurs performants de l’industrie Aéronautique, Spatial, Défense de la région Auvergne-Rhône-Alpes. Aerospace Cluster Auvergne-Rhône-Alpes regroupe aujourd’hui plus de 200 adhérents dont les principaux domaines d'activités sont : matériaux et procédés, systèmes embarqués, MRO.
+Aerospace Cluster Auvergne-Rhône-Alpes s’est donné pour ambition d’accélérer le développement de la filière aéronautique, spatiale, défense Auvergne-Rhône-Alpes. L’association a pour mission de réunir les compétences, les énergies et les moyens pour soutenir la conception, le développement, la production et la vente de technologies, produits et services performants à destination du marché Aéronautique, Spatial, Défense.
+
+Emailto:contact@aerospace-cluster.fr
+Tel : Tel. :+33 (0)4 72 11 63 63
+
+___________________________________________________________________________
+
+Entreprise numéro 25 : AERTEC
+Capital : 2 000 000 €
+Activité : Textiles : rideaux, housses de sièges, moquettes, nettoyages.
+Peinture & traitement de surface : peinture sur site et en atelier, TS alodine.
+
+Maintenance : maintenance fauteuils, cabin refurbishment, ULD, sablage et décapage.
+
+Aero structure : structure primaire, rails et sols, atelier mécanique.
+
+Cabin Equipment : rails rideaux, meubles cabine, partitions, modification galley, compacteurs de déchets par le vide.
+
+Approvals : PART 145, PART 21 G, EN 9100 and ADOA for equipment & cabin modification certification.
+
+Emailto:sales@groupe-aertec.com
+Tel : Tel. :+33 (0)1 34 47 15 02
+
+___________________________________________________________________________
+
+Entreprise numéro 26 : AIP CLAYENS NP GROUP
+Présentation : SINTEX NP GROUP
+Capital : 2 000 000 €
+Activité : Transformation des thermoplastiques, thermodurcissables et compositesInjection des polymères hautes performances selon AIPS03-02-010.Injection et compression des thermodurcissables.Thermoformage selon l'ADET 0061.Estampage composites thermoplastiques selon AIPS03-02-020.Usinage 5 axes des polymères et composites hautes performances selon AIPS03-07-002.Réalisation de sous-ensembles métalloplastiques.Laboratoire qualifié SAFRAN selon PRO-0430.Accrédité PRI NADCAP en ressuage Agréments : ISO 9001 - QUALIFAS - EN9100 - AQAP 2120
+
+Emailto:aip@aip-plast.fr
+Tel : Tel. :+33 (0)4 72 47 74 30
+
+___________________________________________________________________________
+
+Entreprise numéro 27 : AIR COST CONTROL
+Capital : 4 000 000 €
+Activité : Achat, stockage et vente de l’ensemble des produits électriques nécessaires à la fabrication des harnais électriques aéronautiques.
+
+Assemblage VAD pour les familles de connecteurs EN3646 (Souriau), D38999 Series III (Amphenol Socapex) et ARINC600 (Amphenol Canada)
+
+Avec plus de 50 000 références en stock, accès immédiat à plus de 400 fabricants européens/américains.
+
+Large gamme de produits : câblage, connecteurs et accessoires, protection de câblage, raccords, contacts, relais, disjoncteurs, lampes.
+
+4 unités de stockage (Toulouse, Hambourg, Miami, Singapour), et bureaux commerciaux (Paris, Zurich, Dubai, Pekin, Madrid) pour un accès immédiat au stock 24/7.
+
+Récompensé par des Airbus Award » (2007-2010-2012-2017 + Foker Elmo Award 2015.
+
+Normes aéronautiques : EN, NSA, ASNE, ABS, MS.
+Services ajoutés :
+New Part Sales – Full traceability
+Kitting
+VAD
+AOG 24/7
+Kitting
+Expertise technique
+Spécialiste programmes américains/européens
+Aucun Minimum de commande
+Marquage câble
+
+Emailto:florian.vigues@aircostcontrol.com
+Tel : Tel. :+33(0)5 62 07 02 00
+
+___________________________________________________________________________
+
+Entreprise numéro 28 : AIR FRANCE INDUSTRIES KLM ENGINEERING & MAINTENANCE
+Présentation : SOLUTIONS MRO ADAPTEES
+Capital : SA à Conseil d'administration
+Activité : AFI KLM E&M propose une large gamme de services de maintenance aéronautique pour les appareils Airbus, Boeing et Embraer  :
+
+Solutions de support équipements comprenant des prestations de réparation, modification, rechanges, transport et logistique avec une couverture mondiale, à l’événement (régie) ou en support à l’heure de vol. AFI KLM E&M adapte son offre selon les besoins du client en termes de financement de stock ou d’intégration au stock du Groupe Air France KLM.
+Solutions de support moteurs General Electric et CFMI (réparation, modification, transport, couverture logistique mondiale), en prestation à l’événement (régie) ou en support à l’heure de vol. Selon les besoins du client, AFI KLM E&M fournit des moteurs de rechange.
+Solutions de réparations sous l'aile (On-Wing Services)
+Solutions de support APU (Airbus, Boeing, Embraer) et nacelle (GE et CFMI).
+Conception et de réalisation de modifications cabine, structure, avionique pour flottes Airbus et Boeing.
+Solutions de support engineering de flotte Airbus et Boeing.
+Services de maintenance avion en ligne et en hangar, petit et grand entretien. Solutions de support complet intégrant tout ou partie des services ci-dessus pour un service «à la carte» pouvant intégrer l’engineering de flotte, les visites de petit entretien et d’entretien en ligne, la formation, les solutions de support équipements et/ou moteur, et un soutien logistique de dimension mondiale.
+Solutions Aérostructures
+Solutions de démantèlement cellule, moteurs.
+
+Emailto:https://www.afiklmem.com/en/contacts/communication-department
+Tel : Tel. :+33 (0)1 49 89 52 46
+
+___________________________________________________________________________
+
+Entreprise numéro 29 : AIR LIQUIDE
+Capital : 2 356 439 277 €
+Activité : Leader mondial des gaz, technologies et services pour l’industrie et la santé, Air Liquide est un partenaire majeur de l'aviation civile et militaire et participe à l’aventure spatiale depuis plus de 50 ans. Air Liquide conçoit des systèmes pour la génération de gaz à bord des aéronefs, ou destinés aux applications aéronautiques au sol.Air Liquide apporte également sa compétence en matière de traitement des matériaux, de soudage, de mise en œuvre des métaux et composites ou composants électroniques, lors des différentes étapes de la fabrication d’équipements aéronautiques. Dans le domaine spatial, Air Liquide s'est bâti une forte crédibilité grâce à son expertise dans les lanceurs (moyens sols, lanceurs Ariane), dans la conception d’équipements cryogéniques pour les satellites mais aussi l’exploration spatiale (MTG, Herschel, Planck, Melfi, Curiosity, ExoMars…).. Air Liquide est aussi partenaire du futur lanceur Ariane 6 pour les systèmes cryogéniques embarqués et au sol, et participe à l'exploration spatiale.Air Liquide propose une offre globale allant de la fourniture d'équipements, de gaz, de compétences (études, ingéniérie...), de services ou encore de partenariats en Recherche & Développement.
+
+Tel : Tel. :+33 (0)1 40 62 55 55
+
+___________________________________________________________________________
+
+Entreprise numéro 30 : AIR SUPPORT
+Présentation : AIR SUPPORT est une société reconnue dans la Maintenance d’équipements aéronautiques (MRO) principalement sur les équipements moteurs, cabines et systèmes d’éclairages.  Basée à proximité de l’aéroport Toulouse-Blagnac, AIR SUPPORT propose également des prestations d’Assistance Technique sur site clients, en France ou à l’étranger.
+ Avec plus de 200 clients répartis dans 40 pays, AIR SUPPORT est une référence mondiale reconnue par les acteurs majeurs de l’aéronautique (motoristes, MRO, avionneurs, compagnies aériennes).
+
+De par son dynamisme et sa qualité de service, AIR SUPPORT est aujourd’hui considéré comme un partenaire incontournable de la maintenance aéronautique dans le monde.
+
+Entreprise créée en 1992
+Capital : SAS
+Activité : Maintenance et réparation d’équipements aéronautiques :
+
+Équipements moteurs installés sur CFM56, LEAP 1A, GE90, CF34 et GEnX (VBV system, Lubrication Unit, Oil tank, VSV actuator…)
+Systèmes d’éclairages : feux de recherche, feux de navigation…
+Inserts de galley : four, cafetière, bouilloire, compacteur de déchets…
+
+ 
+Assistance Technique sur les lignes d’assemblage final (FAL) ou directement sur site client, en France et/ou à l’étranger : 
+
+Sièges passagers : intervention sur tous type de sièges (B/C, F/C, Y/C).
+Équipements cabine : inserts de galleys (cafetière, four), galleys, coffres à bagages, mobilier cabine, masques à oxygène...
+
+Agréments : PART145 EASA/FAA/CAAC/TCCA/CAA – EN9110 / ISO 9001
+
+Emailto:contact@airsupport-mro.com
+Tel : Tel. :+33 (0)5 62 07 50 60
+
+___________________________________________________________________________
+
+Entreprise numéro 31 : AIRBUS
+Présentation : Leader mondial des secteurs de l’aviation commerciale et des hélicoptères, acteur de premier plan dans les domaines de l’espace et de la défense, Airbus joue un rôle majeur au service de la société. Nos activités en matière de défense sont essentielles à la sécurité de nombreux pays, et donc à la stabilité et la prospérité nécessaires pour poursuivre sur la voie du progrès. Nos satellites connectent l'humanité et surveillent la santé de notre planète. Nos hélicoptères sauvent des vies et renforcent le lien avec les endroits difficiles d’accès. L’aviation commerciale rassemble les gens dans le monde entier, contribue à la compréhension entre cultures et apporte la paix et la prospérité.
+ 
+Pionnier d’une industrie aéronautique et spatiale durable pour un monde sûr et uni,
+Airbus a pour objectifs de contribuer à la décarbonation du secteur d’ici 2050 grâce au développement de produits de plus en plus décarbonés, numérisés, connectés et cyber sécurisés et de mettre en service vers 2035 l’avion ZEROe totalement décarboné.
+ 
+Cet immense défi, nous entendons le relever grâce à nos compétences et savoir-faire de premier plan, notre capacité d’innovation et notre système de production, qui est en cours de transformation. Nous nous appuyons aussi sur nos racines européennes et notre présence mondiale ainsi que sur notre volonté de privilégier la qualité, la sécurité, l’intégrité et la conformité.
+ 
+Ce projet d’envergure entraîne une évolution de l’ensemble de l’écosystème vers la transition énergétique et renforce la compétitivité de l’ensemble de la chaîne de valeur. Il permettra en effet à Airbus et à la filière aéronautique et spatiale de continuer, dans les années à venir, à contribuer au développement durable de la société.
+Capital : 52 Md€
+
+___________________________________________________________________________
+
+Entreprise numéro 32 : AIRBUS ATLANTIC
+Présentation : Airbus Atlantic est un nouveau champion de dimension mondiale, n° 2 des aérostructures, n° 1 des sièges pilotes et dans le Top 3 des fauteuils passagers Premium commercialisés sous la marque STELIA Aerospace. 
+
+En tant que filiale 100% Airbus, positionnée au cœur du système industriel de l'avionneur, Airbus Atlantic a pour missions :
+-	d’optimiser sa compétitivité avec les mêmes niveaux de flexibilité, rapidité, simplicité et agilité qu'un fournisseur d'aérostructures de rang 1. 
+-	de livrer aux plus hauts standards de qualité et d’excellence d’opérationnelle, tant à Airbus qu'à des constructeurs aéronautiques tels que Dassault Aviation, Bombardier ou ATR, ainsi qu'aux compagnies aériennes du monde entier s’agissant de sa gamme de fauteuils passagers Premium.
+
+Airbus Atlantic joue un rôle clef vis-à-vis de l’ensemble de la supply chain aérostructures auprès de plus de 500 fournisseurs directs (produits aéronautiques) et plus de 2000 fournisseurs indirects (achats généraux).
+
+Airbus Atlantic s’appuie sur l’expertise technique des ingénieurs de son Bureau d’Études, comme sur ses 9 sites et filiales en France et ses 7 filiales à l’international. Son implantation mondiale lui confère une grande réactivité et une forte compétitivité, pour assurer la satisfaction de ses clients.
+
+Les  13 000 collaborateurs de l’entreprise, répartis dans 5 pays et 3 continents partagent la même raison d’être et la même ambition : faire d’Airbus Atlantic un leader en termes d’innovation et d'excellence opérationnelle, pour construire l’industrie aéronautique de demain, durable et performante.
+                                                                                            
+Entreprise créée en 2022
+Capital : 291 280 000 €
+Activité : Numéro 2 mondial des aérostructures, expert en conception, production, assemblage et intégration 
+Airbus Atlantic conçoit, développe, industrialise et produit des pièces et sous-ensembles d’aérostructures complexes composites, métalliques ou hybrides (sections de fuselage, pièces d’aérostructures), tant pour des programmes civils que militaires.
+Airbus Atlantic est également l’une des rares entreprises au monde dotées des capacités à livrer des sections complètes entièrement équipées et testées (dites « Plug & Fly »), intégrant les systèmes hydrauliques et électriques.
+Airbus Atlantic assure l’intégration de systèmes pour l’aviation commerciale, régionale et l’aviation d’affaires, ainsi que pour des programmes militaires. Tous les systèmes sont testés avant livraison :
+
+Assemblage, installation systèmes et essais de pointes avant, de sections avant et de sections centrales de fuselage des Airbus A350, A330neo et A320 ; et des sections de fuselage avant et arrière de l’Airbus A220 
+Voilures ATR complètes, équipées et testées, incluant les tests aux bancs d’essais finaux (essais carburant et commandes de vol) 
+Fuselage central du Global 7500 de Bombardier, équipé de ses systèmes (électriques, hydrauliques…) 
+Sous-ensembles d’aérostructures pour le tronçon central du Falcon 10X de Dassault Aviation
+Partie avant de fuselage du BelugaXL, entièrement équipée de ses systèmes (électriques, hydrauliques, conditionnement d’air, oxygène, eaux usées, commandes de vol…) et porte cargo 
+Rampe d‘accès arrière de l’A400M équipée de ses systèmes fonctionnels hydrauliques et électriques (ouverture / fermeture en vol).
+
+ 
+ 
+Numéro 1 mondial sur le marché des sièges pilotes  
+Airbus Atlantic accompagne ses clients de la conception à la production, et jusqu’au support après-vente.
+Avec sa large gamme de sièges performants, confortables, fiables et ergonomiques, tant pour avions que pour hélicoptères, Airbus Atlantic répond aux besoins des segments commerciaux de l’aviation d’affaires, régionale, militaire et des hélicoptères.
+ 
+Dans le Top 3 mondial avec la gamme de fauteuils passagers STELIA Aerospace
+Pleinement intégrée à Airbus Atlantic, l’activité Aménagement Cabine est commercialisée sous la marque STELIA Aerospace.
+Les équipes développent et produisent une large gamme de fauteuils sur-mesure et innovants pour les Première Classe et Classe Affaires des compagnies aériennes du monde entier.
+L’équipement de la cabine, et surtout le choix des fauteuils de Première Classe et Classe Affaires, est un élément de différenciation majeur pour les compagnies aériennes, qui sont en effet à la recherche permanente des dernières innovations et du meilleur confort à offrir à leurs passagers.
+Luxueux et réputés dans le monde entier, les fauteuils de Première Classe et Classe Affaires de STELIA Aerospace sont prisés par les plus prestigieuses compagnies aériennes dans le monde entier. Le bureau d’études et de fabrication de Rochefort (France) crée une gamme inspirante de fauteuils alliant luxe, confort, innovation pour les passagers et excellence opérationnelle pour les compagnies : www.stelia-aerospace.com
+
+Tel : Tel. :+ 33 (0)5 81 91 40 00
+
+___________________________________________________________________________
+
+Entreprise numéro 33 : AIRBUS DEFENCE AND SPACE
+Présentation : Chez Airbus, nous développons et fabriquons des produits aéronautiques, spatiaux et de défense au meilleur niveau de l’état de l’art. Nos plateformes et services permettent à nos clients de répondre aux besoins opérationnels les plus complexes d’aujourd’hui et de demain. 
+Dans le domaine de la défense, Airbus apporte des solutions interopérables et collaboratives pour assurer la supériorité des systèmes de combat dans les cinq domaines opérationnels: terre, air, mer, espace et cyber.
+Dans le domaine spatial, notre objectif est d'améliorer la vie sur Terre et au-delà grâce à nos technologies spatiales de pointe. Avec chaque percée technologique, nous rapprochons les gens, nous naviguons sur de nouvelles frontières et nous découvrons des destinations nouvelles et inexplorées. Et nous ne nous contentons pas d'emmener nos innovations dans l'espace : nos solutions et projets spatiaux contribuent à résoudre des problèmes mondiaux sur Terre.
+Mais nous ne nous arrêtons pas là : nous envisageons un avenir où l'économie humaine s'étend au-delà de l'orbite terrestre et où chacun bénéficie de la valeur de l'espace. Explorer, découvrir, connecter : ensemble, nous pouvons faire de demain plus qu'un jour comme les autres.
+                                                                                            
+Entreprise créée en 2014
+Capital : 10 186 M€
+Activité : Leader mondial des secteurs de l’aviation commerciale et des hélicoptères, acteur de premier plan dans les domaines de l’espace et de la défense, Airbus joue un rôle majeur au service de la société. Nos activités en matière de défense sont essentielles à la sécurité de nombreux pays, et donc à la stabilité et la prospérité nécessaires pour poursuivre sur la voie du progrès. Nos satellites connectent l'humanité et surveillent la santé de notre planète. Nos hélicoptères sauvent des vies et renforcent le lien avec les endroits difficiles d’accès. L’aviation commerciale rassemble les gens dans le monde entier, contribue à la compréhension entre cultures et apporte la paix et la prospérité.
+Pionnier d’une industrie aéronautique et spatiale durable pour un monde sûr et uni,
+Airbus a pour objectif de contribuer à la décarbonation du secteur d’ici 2050 grâce au développement de produits qui seront décarbonés, numérisés, connectés et cyber sécurisés.
+Cet immense défi, nous entendons le relever grâce à nos compétences et savoir-faire de premier plan, notre capacité d’innovation et notre système de production, qui est en cours de transformation. Nous nous appuyons aussi sur nos racines européennes et notre présence mondiale ainsi que sur notre volonté de privilégier la qualité, la sécurité, l’intégrité et la conformité.
+Ce projet d’envergure entraîne une évolution de l’ensemble de l’écosystème vers la transition énergétique et renforce la compétitivité de l’ensemble de la chaîne de valeur. Il permettra en effet à Airbus et à la filière aéronautique et spatiale de continuer, dans les années à venir, à contribuer au développement durable de la société.  
+Airbus Defence and Space, leader européen du secteur de la défense et de l’espace, joue un rôle majeur au service de la société. 
+Dans le domaine de la défense, nos activités aident à rendre le monde plus sûr et jouent un rôle essentiel dans la gestion des crises. Airbus conçoit, réalise et soutient des systèmes de combat interopérables et collaboratifs dans les cinq domaines opérationnels: terre, air, mer, espace et cyber. 
+Dans le domaine de l’espace, notre objectif est d'améliorer la vie sur Terre et de faire de l'espace un univers de possibilités pour tous. Présents sur toute la chaîne de valeur: l’accès à l’espace au travers d’ArianeGroup, les systèmes satellitaires et orbitaux, les équipements ainsi que la fourniture de données et de services à haute valeur ajoutée, nous faisons progresser l'exploration spatiale et contribuons à résoudre certains des problèmes auxquels nous devons faire face sur Terre, et en particulier le changement climatique. 
+Depuis 50 ans, Airbus est un partenaire de confiance de l’Europe et de la France.   Nous sommes fiers de contribuer à leur souveraineté dans les domaines de l’espace, de la défense et de la sécurité.
+
+
+___________________________________________________________________________
+
+Entreprise numéro 34 : AIRBUS HELICOPTERS
+Présentation : En tant que premier constructeur mondial d’hélicoptères, Airbus fournit les solutions en hélicoptères civils et militaires les plus efficaces pour ses clients qui servent, protègent, sauvent des vies et transportent des passagers en toute sécurité dans des environnements très exigeants. Nos hélicoptères sont en service dans plus de 150 pays dans le monde, réalisant presque toutes les missions de vol vertical imaginables. Le portefeuille de produits et de services offre la gamme la plus complète de solutions à décollage et atterrissage vertical pour une utilisation civile, gouvernementale, militaire, de police et parapublique.
+                                                                                            
+Entreprise créée en 1992
+Capital : 586 212 416 €
+Activité : Leader mondial des secteurs de l’aviation commerciale et des hélicoptères, acteur de premier plan dans les domaines de l’espace et de la défense, Airbus joue un rôle majeur au service de la société. Nos activités en matière de défense sont essentielles à la sécurité de nombreux pays, et donc à la stabilité et la prospérité nécessaires pour poursuivre sur la voie du progrès. Nos satellites connectent l'humanité et surveillent la santé de notre planète. Nos hélicoptères sauvent des vies et renforcent le lien avec les endroits difficiles d’accès.  L’aviation commerciale rassemble les gens dans le monde entier, contribue à la compréhension entre cultures et apporte la paix et la prospérité.
+Pionnier d’une industrie aéronautique et spatiale durable pour un monde sûr et uni,
+Airbus a pour objectif de contribuer à la décarbonation du secteur d’ici 2050 grâce au développement de produits qui seront décarbonés, numérisés, connectés et cyber sécurisés.
+Cet immense défi, nous entendons le relever grâce à nos compétences et savoir-faire de premier plan, notre capacité d’innovation et notre système de production, qui est en cours de transformation. Nous nous appuyons aussi sur nos racines européennes et notre présence mondiale ainsi que sur notre volonté de privilégier la qualité, la sécurité, l’intégrité et la conformité.
+Ce projet d’envergure entraîne une évolution de l’ensemble de l’écosystème vers la transition énergétique et renforce la compétitivité de l’ensemble de la chaîne de valeur. Il permettra en effet à Airbus et à la filière aéronautique et spatiale de continuer, dans les années à venir, à contribuer au développement durable de la société.  
+ 
+Airbus Helicopters, leader mondial sur son marché, fonde son succès sur sa gamme de produits, la plus large au monde. Du monomoteur léger H125 et H130 au multirôle lourd H225, nos hélicoptères couvrent l’ensemble des exigences et peuvent réaliser toutes les missions répertoriées à ce jour. 
+Notre position de leader, nous la devons aussi à notre modèle d’entreprise qui privilégie l’innovation, la fidélisation de nos clients dans plus de 150 pays, et vise en permanence l’équilibre entre la production de plateformes et la fourniture de services, ainsi qu’entre nos activités civiles et militaires.
+
+Tel : Tel. :+33 (0)4 42 85 85 85
+
+___________________________________________________________________________
+
+Entreprise numéro 35 : AIRPLANE DELIVERY
+Capital : 50000 €
+Activité : Maintenance aéronautique avions régionaux.
+Réparations structurelles, remise à niveau cabine, sockage, checks, conversion cargo, ateliers internes APD, remplacement moteur, dépose/repose gouvernes de vol.
+
+Emailto:agn@airplane.aero
+Tel : +33 (0)6 73 42 90 27
+
+___________________________________________________________________________
+
+Entreprise numéro 36 : AIRUDIT
+Présentation : Membre du Club StartAir.
+                                                                                            
+Entreprise créée en 2015
+Capital : 230 000 €
+Activité : Airudit est spécialisée dans la conception des interfaces Humains/Systèmes pilotées par la voix.
+Elle édite une plateforme propriétaire de services de compréhension du langage naturel humain parlé associant un moteur sémantique dont le squelette repose sur des ontologies métiers augmentées, des algorithmes de traitement automatique du langage naturel (SLU/NLP/NLU) et un moteur de Reconnaissance Automatique de la Parole (RAP) utilisant des réseaux de neurones profonds.
+
+Emailto:contact@airudit.com
+Tel : +33 (0)7 63 03 00 15
+
+___________________________________________________________________________
+
+Entreprise numéro 37 : AKIRA TECHNOLOGIES
+Présentation : Société d'ingénierie mécanique, d'innovation technologique et de fabrication de systèmes embarqués en petites et moyennes séries. 
+
+Spécialisée dans la réalisation de machines de conversion d'énergie et de bancs de tests et machines spéciales.
+
+Domaines : Aéronautique - Naval - Automobile - Défense - Energies.
+                                                                                            
+Entreprise créée en 2003
+Capital : 1 000 000 €
+Activité : Créée en 2003, Akira est une société d’ingénierie dans le domaine des bancs d’essais spéciaux et des machines de conversion d’énergies.
+A travers notre bureau d’étude et notre atelier nous intervenons sur l’ensemble des étapes de développement de la machine de la pré-étude à la livraison finale.
+Principaux domaines d’activités :
+
+Bancs d’essais spéciaux.
+Moteurs à pistons.
+Turbomachines.
+Machines électriques.
+Groupes électrogènes innovants.
+Transmissions mécaniques & réducteurs.
+Sous-systèmes (pompes, actionneurs, systèmes mécaniques….).
+
+Compétences internes :
+
+Conception mécanique & dimensionnement.
+Conception hydraulique.
+Electronique de commande & automatisation.
+Développement de logiciels de pilotage.
+Instrumentation & traitement de données.
+Assemblage, mise au point & intégration sur site.
+
+Emailto:contact@akira.pro
+Tel : Tel. :+33 (0)5 59 50 11 39
+
+___________________________________________________________________________
+
+Entreprise numéro 38 : AKKODIS AKKA TECHNOLOGIES
+Capital : 16 600 000 €
+Activité : Un leader européen de l’ingénierie et du conseil en technologies en matière de :1° Ingénierie produit : conception et développement des projets industriels :Expertises mécaniques et structureExpertises systèmes et services au transport aérien, offres portées par la marque Aeroconseil :- de la conception de l'avion et de ses systèmes à leur certification dans métiers de l'avionique, de l'aérodynamique, de l'électricité, des commandes de vol, des systèmes de contrôle hydrauliques et électriques...- support aux services clients des industriels, asset & maintenance management, modifications, et support avions en services.2° Ingénierie process : support des industriels en phase d’industrialisation - post-ingénierie produit - et en phase dite de «travaux neufs».3° Ingénierie documentaire : approche globale des services documentaires et en sûreté de fonctionnement et soutien logistique intégré. 4° Informatique industrielle & systèmes embarqués : conduite de grands projets en matière de systèmes embarqués, applicatifs de traitement de données scientifiques, bancs de test, électronique, télécommunications.5° Systèmes d’information : grands projets SI (technologies web ou n-tiers, informatique décisionnelle, business intelligence, gestion de la relation client et progiciels de gestion).6° Consulting : conseil en pilotage de grands projets, projets d'externalisation et management de la performance.Implantations à l'international : présent dans plus de 20 pays notamment en Allemagne, Belgique, Canada, Chine, Emirats Arabes Unis, Espagne, Italie, Japon, Maroc, Roumanie, Royaume-Uni, Russie, Suisse, Turquie, USA,...
+
+Emailto:lionel.romanetti@akka.eu
+Tel : Tel. :+33 (0)4 72 54 99 99
+
+___________________________________________________________________________
+
+Entreprise numéro 39 : ALA - ADVANCED LOGISTICS FOR AEROSPACE FRANCE
+Capital : 1100000 €
+Activité : Négoce de pièces détachées et accessoires pour l'aviation civile, militaire et les technologies industrielles et de services.
+
+Emailto:valentina.verde@alacorporation.com
+Tel : +33 (0)5 58 85 20 00
+
+___________________________________________________________________________
+
+Entreprise numéro 40 : ALCEN
+Capital : 10 847 000 €
+Activité : ADR : Leader dans le domaine de la conception et fabrication de roulements à billes de haute précision. Grâce à son expérience et à un développement permanent, ADR propose aujourd’hui, des produits innovants de très haute technologie. ATMOSTAT : Conception, fabrication et intégration d'équipements mécaniques hautement critiques. Ingénierie d’accompagnement : démonstration de fiabilité et durée de vie, développement et qualification de processus industrielsEPSILON : Simulations numériques et informatiques scientifiques : modélisation, simulation, analyses, optimisation, du composant au système, tout au long de la vie du produit - Domaines de prédilection : thermique, mécanique et fluidique.LHERITIER : Conception et fabrication de caméras durcies et de systèmes de vision complexes d’acquisition et de traitement d’images.TRONICO : Conception, industrialisation et fabrication de produits complexes à dominance électronique, tout au long de leur cycle de vie. En complément de son coeur de métier d'EMS (Electronic Manufacturing Services), TRONICO se place en tant qu'ODM (Original Design Manufacturer) dans le développement de systèmes complexes.
+
+Emailto:ncharousset@alcen.com
+Tel : Tel. :+33 (0)1 40 72 55 06
+
+___________________________________________________________________________
+
+Entreprise numéro 41 : ALKALEE
+Présentation : Membre du Club StartAir du GIFAS
+                                                                                            
+Entreprise créée en 2020
+Capital : 100 000 €
+Activité : Alkalee développe une solution d’intégration logicielle automatisée pour plateforme embarquée. Cette solution vise à décupler les capacités d’intégration de nos clients, de manière agile et sécurisée, à tout moment du cycle de vie de la plateforme (linefit et retrofit).
+ 
+L’objectif est d’industrialiser cette étape fondamentale, qui se complexifie de manière significative vis-à-vis de l’hétérogénéité des capteurs, des calculateurs, des systèmes d'exploitation (OS) et des applications embarqués sur une même plateforme.
+ 
+L’avantage de la solution proposée par Alkalee repose sur sa modularité et sa capacité à s’accommoder à l’environnement de développement du client (cf. logiciels métiers).
+ 
+Elle permet en outre de découpler la conception matérielle et logicielle, et ainsi de s’affranchir des difficultés liées à leurs évolutions respectives ; qu’elles soient subies (obsolescence, pénurie) ou souhaitées (disruption technologique).
+
+Emailto:contact@alkalee.fr
+Tel : +33 (0)6 31 82 16 02
+
+___________________________________________________________________________
+
+Entreprise numéro 42 : ALLIANCE OUTILLAGE
+Capital : 25 000 €
+Activité : Mécanique de précision / Moules et Boites à Noyaux / Outillages d'Usinage et de Contrôle / MMT / BE CFAO
+Etude,  conception et réalisation de :
+
+Pièces prototypes et de présérie  pour les secteurs de pointe.
+Moules et Boites à Noyaux pour injection cire et céramique
+Outillages d'usinage et de montage.
+
+Usinage de superalliages
+Contrôle tridimensionnel  MMT.
+Technologies utilisées : Fraisage CN 3 et 5 axes, Tournage CN, Electro-érosion Fil et Enfonçage.  Rectification.
+
+Emailto:francois.coudray@alliance-outillage.fr
+Tel : +33 (0)1 30 17 02 47
+
+___________________________________________________________________________
+
+Entreprise numéro 43 : ALTYTUD Cluster Aéronautique
+Capital : Association Loi de 1901
+Activité : Afin de contribuer à la compétitivité des entreprises du secteur aéronautique, rapprocher les Donneurs d’Ordres de ses partenaires ou futurs partenaires et de faire monter en compétences l’ensemble de la supply chain, ALTYTUD structure un réseau industriel fort et place le développement des entreprises au cœur de sa déclinaison opérationnelle.
+
+Notre démarche d’actions est construite par les industriels eux-mêmes, se voulant ainsi à la fois efficiente et pragmatique.
+
+Acteur de la filière aéronautique régionale et interface directe des industriels, ALTYTUD rassemble 70 membres dont 60 industriels et représente également la démarche collective AER’Hauts-de-France.
+
+Emailto:sophie.pouillart@altytud.fr
+Tel : Tel. :+33 (0)6 35 11 43 41
+
+___________________________________________________________________________
+
+Entreprise numéro 44 : ALVEST HOLDING
+Présentation : ALVEST est un groupe spécialisé dans la conception, la fabrication et la distribution de produits techniques pour l'industrie aéronautique, qui incluent les équipements aéroportuaire d'assistance au sol, des pièces de rechange et des services, des adhésifs techniques, la signalisation pour l'aéronautique et les marchés industriels.
+ALVEST a pour ambition d'être le leader sur ces marchés et d'investir systématiquement dans l'innovation, le développement des produits et leur fabrication ainsi que l'amélioration des processus de support au service de ses clients. Nous sommes fiers de notre capacité à augmenter et renforcer l'efficacité, la sécurité et le rendement énergétique des équipements d'assistance aux avions. 
+
+Notre mission consiste à fournir des produits et des services de qualité supérieure pour l'industrie aéronautique et de faciliter sa transition écologique.
+
+Nos valeurs fondamentales sont centrées sur le support et la satisfaction du client, la qualité des équipements, la convergence et la précision des méthodes de travail ainsi qu'une approche innovante. Ces principes sont retranscrits dans les produits et les services que nous offrons, alors que nous œuvrons à façonner et dominer les marchés dans lesquels nous évoluons.
+                                                                                            
+Entreprise créée en 1896
+Capital : 5 617 104 €
+Activité : Conception, fabrication, vente d'équipements d'assistance aéroportuaire au sol et services associés.
+
+Emailto:jean-marie.fulconis@alvest.fr
+Tel : +33 (0)1 40 64 16 10
+
+___________________________________________________________________________
+
+Entreprise numéro 45 : AMETRA GROUP
+Capital : 1 316 328 €
+Activité : Ingénieriste intégrateur de systèmes mécaniques, électriques et électroniques. 
+Nos entités : Ametra Engineering, Ametra Integration, Ametra Simulation, Nucon Ametra Electronics Systems. 
+Qualifications : ISO 9001 - 2000 ; EN 9100
+Conception, intégration, tests, MCO de harnais, boitiers, bancs et coffrets électriques et électroniques
+TROPHEE 2015 de LA MEILLEURE USINE-catégorie Supply Chain
+(« L’Usine Nouvelle »)
+REVUE DE PRESSE :
+« AMETRA s’implante en Inde » 23/09/2019 – Ouest France
+« PME Industrielles, osez l’usine 4.0 incrémentale » 22/09/2018 – L’Usine Nouvelle
+« AMETRA fait rimer numérique et pragmatisme » 15/09/2018 – L’Usine Nouvelle
+« Anjou Electronique – Groupe AMETRA, récompensé par ArianeGroup » Janvier 2018 – Electronique Mag
+« L’engagement RSE est aussi important que l’amour de la technique » 08/02/2021 – Le Figaro
+« Prix de la supply chain » 25/05/2015 – L’Usine Nouvelle
+EXEMPLES DE REALISATIONS :
+
+Approvisionnement, fabrication et intégration de l’ilôt des commandes de vol du Rafale
+Etude de compétitivité, réindustrialisation, approvisionnement, intégration de la structure du radar du Rafale
+Etude, fabrication et intégration de bancs de tests (prestations au forfait > 1M€)
+
+Emailto:secretariat@ametragroup.com
+Tel : Tel. :+ 33 (0)1 44 54 82 00
+
+___________________________________________________________________________
+
+Entreprise numéro 46 : AMIRAL TECHNOLOGIES
+Présentation : Membre du club StartAir du GIFAS
+                                                                                            
+Entreprise créée en 2018
+Capital : 28 496 €
+Activité : Amiral Technologies est une spin-off du CNRS. Ses innovations sont le fruit de 10 années de recherche académique en Automatique, Théorie du Contrôle et Intelligence Artificielle. Sa technologie révolutionne le traitement des données IIoT pour les secteurs industriels critiques, complexes et à forte valeur ajoutée. Au cœur de ses innovations se trouvent ses algorithmes de génération automatique de caractéristiques pour les séries temporelles industrielles, quelle que soit leur nature. Ces innovations permettent à DiagFit, le logiciel d'Amiral Technologies, de produire des modèles prédictifs de haute performance capables d’apprendre avec peu ou pas de données historiques de défaillance. DiagFit répond aux besoins de nos clients industriels, tant à leurs contextes d’exploitation qu'à leurs équipements spécifiques.
+
+Emailto:contact@amiraltechnologies.com
+Tel : +33 (0)6 86 49 11 83
+
+___________________________________________________________________________
+
+Entreprise numéro 47 : AMPHENOL - AIR LB
+Présentation : Amphenol Air LB (AALBF) est un acteur mondial spécialisé dans les domaines de la connectique et des systèmes de fixations. Notre société conçoit, fabrique et distribue dans le monde entier un large éventail de connecteurs, systèmes d’interconnexion et accessoires, de haute performance, standards et sur-mesure, normalisés ou non, pour des marchés exigeants tels que l'Aéronautique, La Mobilité aérienne urbaine, la Défense, le Ferroviaire, l'Industrie, l'Energie ou le Naval.
+
+Filiale française du groupe Amphenol Corporation, notre société est implantée au cœur de l’Europe, dans le nord-est de la France, près des frontières Belge et Luxembourgeoise. Nos activités sont réunies au sein d’un bâtiment récent de plus de 8500 m² entièrement pensé pour sécuriser la chaîne d’approvisionnement de nos clients en réduisant au maximum les risques industriels : Excellence opérationnelle, Satisfaction clients et Gestion des risques constituent l’ADN d’Amphenol Air LB.
+
+Fondée sur une culture technique historique combinée à une orientation client déclinée à tous les niveaux de notre organisation, notre société a su se démarquer aux yeux de ses clients par ses performances de premier ordre en termes de Qualité et de Logistique. C’est la satisfaction et la confiance de nos clients qui nous animent.
+Capital : 2 870 000 €
+Activité : Conception et réalisation de tous systèmes de connexions électriques /électroniques, de distribution et de fixation pour application aéronautique commerciale ou militaire. Solutions pour le gain de masse, d'espace et de temps d'installation ou de maintenance, étanchéité et protection CEM.
+ 
+Connectique de coupure :
+
+Connecteurs rectangulaires monobloc (EN3545), ou modulaires (EN4165), métalliques ou composites, standards ou durcis, étanches.
+Connecteurs rectangulaires push-pull métalliques ou composites (EN4165).
+Connecteurs optiques monomode, multimode (SIMTac01, SIMTac02, SIMTac03, SIMTac08, MPO, Elio®, Luxcis®).
+Connecteurs interface IFE (ASR, EZ Cabin).
+
+ 
+ 
+Connectique de distribution :
+
+Modules à jonctions rapides étanches rectangulaires ou circulaires, standards ou à composants, pour des contacts Mil-c-39029, EN3155 et NSA.
+Prolongateurs étanches.
+Bus-bar, blocs de jonctions.
+
+ 
+Connectique d'interface et spécifique :
+
+Mini connecteurs missiles.
+Socles pour relais hermétiques.
+
+ 
+Systèmes de fixation électrique et hydraulique :
+
+Supports de cablage, Accessoires de fixation, Colliers Serre-câble surmoulés (ABS2195, CC5516 & CC5516 Light, ABS1339 & ABS1339 Light).
+Peignes et supports de tuyauteries modulaires et monoblocs. 
+
+ 
+ 
+Reengineering de produits connectiques obsolètes.
+ 
+Electronic Packaging.
+
+Emailto:customer-service@amphenol-airlb.fr
+Tel : Tel. :+33 (0)3 24 22 32 66
+
+___________________________________________________________________________
+
+Entreprise numéro 48 : AMPHENOL SOCAPEX
+Capital : 1 536 800 €
+Activité : Concepteur et fabricant de connecteurs et systèmes d'interconnexion dans les domaines de l'aéronautique civile et militaire, spatial, défense, communication sur champ de bataille, missile et marine :Connecteurs pour circuits imprimés, HDAS, SMASH,  HILINX.Connecteurs cylindriques : métalliques, composites CTV MIL-DTL-38999 III, EN3645.Contacts : signal, puissance, haut débit, optique.Solutions en fibres optique :  contacts, connecteurs et cordons optiques …Connecteurs  Ethernet renforcés : connecteurs, cordons.Media convertisseurs et Switch Ethernet renforcés. Solutions USB3.0 renforcées : clefs, connecteurs, cordons, adaptateurs. Solutions réseaux Ethernet.
+
+Emailto:contact@amphenol-socapex.fr
+Tel : Tel. :+33 (0)4 50 89 28 00
+
+___________________________________________________________________________
+
+Entreprise numéro 49 : ANTAVIA
+Capital : 100 000 €
+Activité : Maintenance et révision générale d’équipements embarqués :mechanical and electromechanical, electrical power, lights and electronics, hydraulic equipment, landing gear, wheels and brakes, air conditioning, cabin equipment, engine accessories, rewinding.Contrôle non destructif : magnétoscopie, ressuage, courant de Foucault.Rebobinage : tous types, AC-DC.Agréments : PART 45 : FR.145.0094, FAR 145 : X2VY223O, TCAC : 808-36, CAAC : F03300743, VAR 145 : VN-090NN/CAAV,  EN9110, ISO 9001
+
+Emailto:antavia@ametek.com
+Tel : Tel. :+33 (0)5 63 02 52 49
+
+___________________________________________________________________________
+
+Entreprise numéro 50 : APLAST
+Présentation : Depuis près de 40 ans, APLAST est une entreprise familiale spécialisée dans la transformation des matières Plastiques Polymères Hautes Performances :
+- Thermoplastiques techniques: PEEK, PAEK, PEKK, PEK, PEKEKK, PSU, PPSU, PEI, PES, PPE, PPS, COC, TPX, PC…
+- Thermoplastiques fluorés: PFA, FEP, ETFE, ECTFE, PVDF, PCTFE…
+APLAST a développé un savoir-faire unique. Notre procédé de transformation appelé « EXTRUSION-COMPRESSION » permet de proposer aux industries de pointe des plaques, des barres rondes, des galets, des ébauches creuses et des ébauches moulées suivant plan jusqu'à de très fortes épaisseur avec des performances mécaniques, une stabilité dimensionnelle et une homogénéité supérieures
+                                                                                            
+Entreprise créée en 2022
+Capital : 100 €
+Activité : « Transformation des Plastiques Hautes Performances »
+N'hésitez pas à découvrir sur notre site notre process de transformation par extrusion-compression.
+
+Emailto:contact@aplast.fr
+Tel : +33 (0)4 79 54 75 58
+
+___________________________________________________________________________
+

@@ -13,7 +13,7 @@ with open(fichier_lien,'r', encoding="utf-8") as liens:
         url_list.append(ligne.strip())
 
 #pour pas tout afficher
-url_test_list=url_list[:5]
+url_test_list=url_list[:50]
 
 
 # On stocke dans ce fichier les infos : N°,lien,nom,Tel,activité, capital, email
@@ -24,6 +24,7 @@ with open(fichier_texte, 'w',encoding="utf-8") as fichier:
     for url in url_test_list:
         numero_entreprise+=1
         num=str(numero_entreprise)
+        fichier.write('\n___________________________________________________________________________\n\n')
         fichier.write(f"Entreprise numéro {num} : ")
         # Faire la requête HTTP
         response = requests.get(url)
@@ -37,12 +38,14 @@ with open(fichier_texte, 'w',encoding="utf-8") as fichier:
             #     html_file.write(page_html_text)
             # #Supposons que le montant est dans des balises <div> avec la classe 'page-member__resume__number'
             company_name = soup.find_all('h1', class_='title-main title-main--white uppercase')
+
+            company_resume=soup.find_all('div', class_='page-member__resume__pres wysiwyg')
            
             company_capital = soup.find_all('div', class_='page-member__resume__number')
 
             company_activity = soup.find_all('div', class_='wysiwyg mt-16')
 
-            company_email=soup.find_all('a', class_='en-text gen-text--L gen-text--blue-dark')
+            company_email=soup.find_all('a', class_='gen-text gen-text--L gen-text--blue-dark')
 
             company_number=soup.find_all('span', class_='gen-text gen-text--L gen-text--blue-dark')
 
@@ -59,6 +62,12 @@ with open(fichier_texte, 'w',encoding="utf-8") as fichier:
                     else:
                         fichier.write(url + '\n')
                     print(f"Écrit dans le fichier : {url}")
+            if len(company_resume) > 0:
+                for paragraph in company_resume:
+                    resume = paragraph.text.strip()
+                    if resume:
+                        fichier.write(f"Présentation : {resume}\n")
+                        break
             if len(company_capital) > 0:
                 for paragraph in company_capital:
                     montant_capital = paragraph.text.strip()
@@ -69,26 +78,23 @@ with open(fichier_texte, 'w',encoding="utf-8") as fichier:
                 for paragraph in company_activity:
                     activity = paragraph.text.strip()
                     if activity:
-                        fichier.write(f"Activité : {activity}\n")
+                        fichier.write(f"Activité : {activity}\n\n")
                         break
 
             if len(company_email) > 0:
-                for paragraph in company_email:
-                    email = paragraph.text.strip() 
-                    if email:
-                        fichier.write(f"Email : {email}\n")
-                        break
+                for balise_a in company_email:
+                    href = balise_a.get('href')
+                    fichier.write(f"E{href}\n")
+
             if len(company_number) > 0:
                 for paragraph in company_number:
                     number = paragraph.text.strip() 
                     if number:
                         fichier.write(f"Tel : {number}\n")
                         break
-        for i in range(5):
-            fichier.write('/\n')
+        else:
+            print(f"Échec de la requête avec le code d'état {response.status_code}")
         time.sleep(0.001)
-
-    else:
-        print(f"Échec de la requête avec le code d'état {response.status_code}")
-
+    fichier.write('\n___________________________________________________________________________\n\n')
+fichier.close()
 
